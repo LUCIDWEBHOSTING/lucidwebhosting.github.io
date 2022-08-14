@@ -16,10 +16,9 @@ Our documents [page](docs.oassp.org) are in process, but you can find updates to
 
 ### 🙋‍ **Is there anything else the community should know?**
 
+-  Get to know  <a href="https://www.lucidWebhosting.com/about.html"> Our Story.</a>
 
--  our Story <a href="https://www.lucidWebhosting.com/about.html">Our Story.</a>
-
--  We are <a href="https://www.lucidWebhosting.com/socials.html"> Social</a> 
+-  We are also <a href="https://www.lucidWebhosting.com/socials.html">Social</a> 
 
 -  We want you to <a href="https://www.campus.lucidWebhosting.com/careers.html">Work with Us.</a>
 
