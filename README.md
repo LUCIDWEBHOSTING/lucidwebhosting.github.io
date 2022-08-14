@@ -4,7 +4,7 @@ Github Static Site for LucidWebhosting
 Hi there 👋.
 
 ###  🙋‍♀️ **What is LucidWebhosting**?
-LucidWebhosting is a European multinational webhosting technology and digital marketing and advertsing company which focuses on e-commerce, cloud computing, digital streaming,among others.
+LucidWebhosting is a multinational webhosting technology and digital marketing and advertsing company which focuses on e-commerce, cloud computing, digital streaming,among others.
 
 ### 🙋‍♀️ **What does LucidWebhosting do?**
 Platform offers the facilities employing combinations of search engine optimization (SEO), search engine marketing (SEM), content marketing, influencer marketing, content automation, campaign marketing, data-driven marketing, e-commerce marketing, social media marketing, social media optimization, e-mail direct marketing, display advertising.
