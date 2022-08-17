@@ -1,7 +1,6 @@
-# lucidwebhosting.github.io
-Github Static Site for LucidWebhosting
+# Hi there 👋.
 
-Hi there 👋.
+This repo is for the Github Static Site for LucidWebhosting found [here](# lucidwebhosting.github.io)
 
 ###  🙋‍♀️ **What is LucidWebhosting**?
 LucidWebhosting is a multinational webhosting technology and digital marketing and advertsing company which focuses on e-commerce, cloud computing, digital streaming,among others.
