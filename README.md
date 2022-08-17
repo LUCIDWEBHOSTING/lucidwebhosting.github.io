@@ -11,7 +11,7 @@ Platform offers the facilities employing combinations of search engine optimizat
 
 ### 👩‍💻 **Useful resources - where can the community find our docs?** 
 
-Our documents [page](docs.oassp.org) are in process, but you can find updates to the current docs [here](https://github.com/OASSP/docs)
+Our documents [page](docs.lucidWebhosting.com) are in process, but you can find updates to the current docs [here](https://github.com/OASSP/docs)
 
 ### 🙋‍ **Is there anything else the community should know?**
 
@@ -26,7 +26,7 @@ OR
 - <a href="https://www.campus.lucidWebhosting.com/partners.html">Let's Become Partners.</a>
 
 
-🧙 We Respect your <a href="https://www.lucidWebhosting.com/privacy">Privacy.</a>, but here are Our <a href="https://www.oassp.org/termsandconditions">Terms and Conditions</a>
+🧙 We Respect your <a href="https://www.lucidWebhosting.com/privacy">Privacy.</a>, but here are Our <a href="https://www.lucidWebhosting.com/termsandconditions">Terms and Conditions</a>
 
 <footer class="main-footer">
     <div class="float-right d-none d-sm-block">
